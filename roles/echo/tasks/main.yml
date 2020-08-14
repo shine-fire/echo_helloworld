@@ -1,0 +1,5 @@
+---
+# tasks file for echo
+
+- name: echo hello world
+  shell: echo "hello world"
